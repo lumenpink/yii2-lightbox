@@ -1,6 +1,6 @@
 {
-    "name": "yeesoft/yii2-lightbox",
-    "description": "Lightbox widget for Yii2",
+    "name": "lumenpink/yii2-lightbox",
+    "description": "Lightbox widget for Yii2 (backup from erased Yeesoft package)",
     "type": "yii2-extension",
     "keywords": ["yii2", "module", "lightbox"],
     "license": "Apache-2.0",
